@@ -1,0 +1,5 @@
+这是一个包括以下内容的小demo:
+1.flask-sqlalchemy的基本使用
+2.flask中使用sqlalchemy的目录结构
+3.flask-script的基本使用
+4.flask-Migrate的使用
